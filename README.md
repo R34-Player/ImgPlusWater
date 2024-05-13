@@ -11,7 +11,7 @@ Installation
 pip install Pillow
 ```
 ```bash
-  git clone https://github.com/R34-Player/ImgPlusWater.git
+git clone https://github.com/R34-Player/ImgPlusWater.git
 ```
 
 ## Usage/Examples
@@ -19,5 +19,9 @@ pip install Pillow
 
 2-Replace the file in the main folder with the name "water.png" with your watermark (png)
 
-3-Run the program with: python ImgPlusWater.py
+3-Run the program with: 
 
+
+```bash
+python ImgPlusWater.py
+```
